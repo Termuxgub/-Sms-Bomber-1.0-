@@ -1,5 +1,0 @@
-python
-pip install requests
-pip install random
-pip install colorama
-pip install argparse
